@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header p{
+    font-size: 32px;
+    text-align: center;
+}
+.layout{
+    display: flex;
+    flex-direction: column;
+    background-image: url("luvas.png");
+    background-size: 640px;
+}
+body{
+    color: gray ;
+}
+header, footer{
+
+}
+
+p,h1{
+    text-align: center;
+}
+.nav{
+    height: 130px;
+    width: 1920px;
+    background-color: gray ; 
+}
+
+.mural1{
+    float:left;
+    border-radius: 1px;
+    text-align: center;
+}
+
+.mural2{
+    float:right;
+    border-radius: 1px;
+    text-align: center;
+    border-color:black;
+}
+
+.img1{
+    text-align: center;
+}
+
+
+.img2{
+
+}
+.item1{
+    float: left;
+    text-align: center;
+}
+.item2{
+    float:left;
+    text-align: center;
+}
+.item3{
+    float:left;
+    text-align: center;
+}
