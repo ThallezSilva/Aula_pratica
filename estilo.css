@@ -1,0 +1,10 @@
+h1{
+    color: rgb(168, 11, 11);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+body.formatando{
+    background-position-x: left;
+    
+}
