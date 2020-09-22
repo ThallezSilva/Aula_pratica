@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Nossas Aulas</title>
+    </head>
+    
+    <body >
+
+        <h1> Nossas Aulas</h1>
+        <ul>
+            <table width=80% height=100 align=center border="1"  >
+                <tr><td>
+                 <li><h2><p><b><u>Muay thai</u></b></p></h2></li>
+                 <h4>O Muay Thai é uma arte marcial tailandesa que consiste no aperfeiçoamento de socos, 
+                     chutes, joelhadas, cotoveladas e de domínio do oponente.</h4> 
+                </tr></td>
+                </table>
+
+                <table  width=80% height=100 align=center   border="1">
+                    <tr><td>
+                     <li><h2><p><b><u>boxe</u></b></p></h2></li>
+                     <h4>O boxe ou pugilismo é um esporte de combate,
+                     no qual os lutadores usam apenas os punhos, tanto para a defesa, quanto para o ataque.</h4> 
+                    </tr></td>
+                    </table>
+
+                    <table  width=80% height=100 align=center border="1">
+                        <tr><td>
+                         <li><h2><p><b><u>Capoeira</u></b></p></h2></li>
+                         <h4>A capoeira ou capoeiragem é uma expressão cultural 
+                             brasileira que mistura arte marcial, esporte, cultura popular, dança e música</h4> 
+                        </tr></td>
+                        </table>
+               
+                        <table  width=80% height=100 align=center border="1">
+                            <tr><td>
+                             <li><h2><p><b><u>Karatê</u></b></p></h2></li>
+                             <h4>Caraté ou karaté ou Caratê ou caratê-dô é uma arte marcial japonesa desenvolvida a partir da arte 
+                                 marcial indígena de Okinawa sob influência da arte da guerra chinesa,
+                                  das lutas tradicionais japonesas e das disciplinas guerreiras japonesas.</h4> 
+                            </tr></td>
+                            </table>
+               
+  
+               
+                            <table  width=80% height=100 align=center border="1">
+                                <tr><td>
+                                 <li><h2><p><b><u>Jiu Jitsu</u></b></p></h2></li>
+                                 <h4>Jiu-jitsu brasileiro ou BJJ é uma modalidade marcial, desenvolvido pela família Gracie,
+                                      no início do século XX, que se tornou a forma mais difundida e praticada do "Jiu-jitsu" no mundo</h4> 
+                                </tr></td>
+                                </table>
+               
+                                
+           
+        
+            </h2>
+     
+    </body>
+
+</html>
